@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 38550757,
+    "name": "Artificial Dream",
+    "author": "iIiViRuZiIi",
+    "creators": ["iIiViRuZiIi"],
+    "verifier": "iIiViRuZiIi",
+    "verification": "https://youtu.be/C-2PUPD6Rw4",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "isemarcos",
+            "link": "https://youtu.be/zXT0sVjjq4E?si=TJ2OND3zdqrvheDf",
             "percent": 100,
-            "hz": 240
+            "hz": 144
+        },
+        {
+            "user": "lukz715",
+            "link": "",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
