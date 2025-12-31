@@ -6,13 +6,13 @@
     "verifier": "kyoto",
     "verification": "https://www.youtube.com/watch?v=cD0zZ9OJkBE",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=aZDQu9lei4g&t=",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
