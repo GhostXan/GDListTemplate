@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 50008168,
+    "name": "UltraSans",
+    "author": "PlebKingdom",
+    "creators": ["LIEB", "Terron", "Platnuu", "Subw00fer", "Zerex", "BIANOX", "Manix648", "Coliwog", "Fred", "KINGTONY"],
+    "verifier": "KrmaL",
+    "verification": "https://youtu.be/FuzkJmWdL2A",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://youtu.be/Sk30ATQ9ZZo?si=0nscQL136omm-w-G",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
