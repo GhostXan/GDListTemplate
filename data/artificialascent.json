@@ -1,16 +1,28 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 27122654,
+    "name": "Artificial Ascent",
+    "author": "ViPriN",
+    "creators": ["ZenthicAlpha","Serponge","nasgubb","ImAnubis","ViPriN","GDSpeed","Abstract","Terron","Michigun","Zobros","Etzer","Sanic","Anthrax","wamiq8","Codex","REDACTED","Manix648","Loogiah","G4lvatron],
+    "verifier": "combi",
+    "verification": "https://youtu.be/laok-nI3-t8",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/u6k4N7YV_zg?si=S7h-T3Tr3DTcHhAu",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/_t9lDPF3Qu4?si=4SYEjHy7ag02bapp",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "lukz715",
+            "link": "https://medal.tv/games/geometry-dash/clips/jL45vg4n9u6nclcci?invite=cr-MSxvZlYsMjA3NTM0Njkw&v=156",
             "percent": 100,
             "hz": 240
         }
