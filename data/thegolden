@@ -1,0 +1,18 @@
+{
+    "id": 60978746,
+    "name": "The Golden",
+    "author": "BoBoBoBoBoBoBo",
+    "creators": ["BoBoBoBoBoBoBo","Gooseam","Geemi","EyeOfTheStorm","Eridani","BySelling","El3ctr0","rWoomy"],
+    "verifier": "nSwish",
+    "verification": "https://www.youtube.com/watch?v=GzH16AMjI1g",
+    "percentToQualify": 100,
+    "password": "886988",
+    "records": [
+        {
+            "user": "NicoGG",
+            "link": "https://www.youtube.com/watch?v=vD3XVXes4wc&t=152s",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
