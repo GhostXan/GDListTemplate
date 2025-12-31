@@ -1,18 +1,42 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 25610878,
+    "name": "aftermath",
+    "author": "Exenity",
+    "creators": ["Findexi", "Bassiegames", "Rhythmic", "Exenity", "REDACTED", "knobbelboy", "Squizz", "Vultra", "Waze"],
+    "verifier": "DaMeister",
+    "verification": "https://youtu.be/iLCcJyh5c5k",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/_xf11dr-4Jw?si=TNIXbzgBy_t2US0F",
             "percent": 100,
-            "hz": 240
+            "hz": 75
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/FDhCHO81V0c?si=OGybQxE0yiJawuiq",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/70XryZixF_8?si=GfN_HEeiPLN5xUlX",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "lukz715",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "isemarcos",
+            "link": "https://youtu.be/6bh4_7Jk6Pk?si=D-ns0XTcj7JzzGl6",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
