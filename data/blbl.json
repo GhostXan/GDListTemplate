@@ -1,18 +1,30 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 34057654,
+    "name": "Black Blizzard",
+    "author": "KrmaL",
+    "creators": ["KrmaL"],
+    "verifier": "KrmaL",
+    "verification": "https://youtu.be/lsT5TjQ1Ubc",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "https://www.youtube.com/watch?v=kFOI_J08pl8",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/YOIecpH12dY?si=Tq7ZS-L6SvKyFoVt",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/tDQ__8lvWs8?si=o9XC-v2DBfjaEnXs",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
