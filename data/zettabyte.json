@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 56089612,
+    "name": "Zettabyte",
+    "author": "Jenkins",
+    "creators": ["Jenkins"],
+    "verifier": "Jenkins",
+    "verification": "https://youtu.be/Dbl99ctIc_E",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "reizor",
+            "link": "https://youtu.be/x_y_z8lz5t0?si=39liXQN616oV05Re",
             "percent": 100,
-            "hz": 240
+            "hz": 144
         }
     ]
 }
