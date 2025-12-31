@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 62817170,
+    "name": "Lucid Chaos",
+    "author": "CairoX",
+    "creators": ["Helpegasus", "SleyGD", "Endlevel", "Dorami", "creoa", "Moosh", "Deadlox", "Cairox", "iNubble", "TriplasH", "Jaowan"],
+    "verifier": "Colorbolt",
+    "verification": "https://youtu.be/lsZ8okUy_tk",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/TowXbh4-lA0?si=SDFXT1NPsPeA7fUk",
             "percent": 100,
-            "hz": 240
+            "hz": 144
         }
     ]
 }
