@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 109877068,
+    "name": "Warios Gold MinE",
+    "author": "stanstanmansan",
+    "creators": ["hauxz", "xwacate", "Cloudman123", "Duque", "BetaTerminator", "robtopfreak", "alledia", "danielsbadkarma", "Simwamwi", "stanstanmansan", "Jorgem1gue7"],
+    "verifier": "reizor",
+    "verification": "https://youtu.be/c3aeYR3VFE8?si=ZvJAsVOInjsXjiGs",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "reizor",
+            "link": "https://youtu.be/c3aeYR3VFE8?si=4uyZUT4j4cAz-xFC",
             "percent": 100,
-            "hz": 240
+            "hz": 144
+        },
+        {
+            "user": "Nico GG",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
