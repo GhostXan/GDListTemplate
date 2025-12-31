@@ -1,18 +1,26 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 15265393,
+    "name": "The Hell Factory",
+    "author": "TeamN2",
+    "creators": ["Minus","Zelda","Koreaqwer","Ryan LC","Reple","Aeidux","Hermes","Luneth","Miner","WOOGI1411"]
+    "verifier": "Powerbomb",
+    "verification": "https://youtu.be/MxzBAnBeZCE",
     "percentToQualify": 100,
     "password": "password or Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=c6OBwBUuyrY",
             "percent": 100,
-            "hz": 240
+            "hz": 60
+        }
+    ]
+}
+{
+            "user": "Harpax",
+            "link": "https://www.youtube.com/watch?v=RvhczgTXC9k",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
