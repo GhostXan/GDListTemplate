@@ -1,0 +1,18 @@
+{
+    "id": 000000,
+    "name": "",
+    "author": "",
+    "creators": ["asdas","asdas","asdas"],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "password or Free Copy",
+    "records": [
+        {
+            "user": "lukz715",
+            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
