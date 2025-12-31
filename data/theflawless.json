@@ -1,0 +1,22 @@
+{
+    "id": 21280210,
+    "name": "The Flawless",
+    "author": "ILIRyanILI",
+    "creators": ["crispy creepz","raptorz","codly","megaspeed","atheoz","reverier","xevenfurious","ILIRyanILI"],
+    "verifier": "TrusTa",
+    "verification": "https://youtu.be/RHOCE37dP2A",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://www.youtube.com/watch?v=3BfYInW0y1w&t=1s",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "isemarcos",
+            "link": "https://www.youtube.com/watch?v=BATjQmxxRgQ",
+            "percent": 100,
+            "hz": 75
+        },
