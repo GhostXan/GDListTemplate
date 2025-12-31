@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 7174110,
+    "name": "The Ultimate Phase",
+    "author": "Andromeda",
+    "creators": ["ZenthicAlpha", "Andromeda", "Crack", "CreepyDash", "ViPriN", "Findexi", "Tygrysek", "Zobros", "MaJackO", "Giron", "Cyclic", "Loogiah", "WOOGI1411", "UserMatt18", "REDACTED"],
+    "verifier": "Andromeda",
+    "verification": "https://youtu.be/kUTC700-5UA",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://youtu.be/gTuP2cLeV6g?si=dceTYja2g32S6eYR",
             "percent": 100,
-            "hz": 240
+            "hz": 60
+        },
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/zEFIREpQ5-U?si=0dCWHUZyUTw1AAal",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
