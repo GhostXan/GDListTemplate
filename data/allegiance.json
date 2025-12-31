@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "Endlevel",
+    "verification": "https://youtu.be/wzutYMNXr-Y",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "",
             "percent": 100,
-            "hz": 240
+            "hz": 60
+        },
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/e1i5BX1y5G4?si=KtHnugDIK_2B5zWV",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
