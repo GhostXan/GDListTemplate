@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 51791710,
+    "name": "Auditory Breaker",
+    "author": "LazerBlitz",
+    "creators": ["LazerBlitz","Cyclic","Manix648"],
+    "verifier": "Gabs",
+    "verification": "https://youtu.be/ZcQ5NrKmpT0",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://www.youtube.com/watch?v=giDd4aNLCqs",
             "percent": 100,
-            "hz": 240
+            "hz": 75
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/G_vegoS_Qng?si=diFkLzXffcTZoaKu",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
