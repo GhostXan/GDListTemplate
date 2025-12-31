@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 14977845,
+    "name": "Uprise",
+    "author": "Blad3M",
+    "creators": ["Blad3M", "Menkatjezzz"],
+    "verifier": "iNeo",
+    "verification": "https://youtu.be/oQBMG-aacNo",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://youtu.be/HKoF48Z8FG8?si=sLT7uNlNf6pIfYeQ",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
