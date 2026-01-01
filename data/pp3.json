@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 20159880,
+    "name": "Plasma Pulse III",
+    "author": "xSmokes",
+    "creators": ["xSmokes", "Giron"],
+    "verifier": "xSmokes",
+    "verification": "https://youtu.be/obz_F8jnBUU",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/6-2_o0EaBx0?si=gf4KZ1K748ZZ4-G0&t=162",
             "percent": 100,
-            "hz": 240
+            "hz": 144
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/4uwVS34fWLM?si=VHUw6Eccn65-2PGi",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
