@@ -1,16 +1,34 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 26133601,
+    "name": "Athanatos",
+    "author": "Exenity",
+    "creators": ["Gaero","Exenity","Herzilo"],
+    "verifier": "knobbelboy",
+    "verification": "https://youtu.be/HixckMI3rwo",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/Xgj1g29katc?si=O820bzibP7oIGvUd",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=Gry6Dr69I00",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "isemarcos",
+            "link": "https://www.youtube.com/watch?v=PPu0Z9jQckA",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "GhostXan",
+            "link": "https://youtu.be/aBHWbeHI1hI?si=05w0XNNzqOBMQxOt",
             "percent": 100,
             "hz": 240
         }
