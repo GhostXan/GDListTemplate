@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 84813026,
+    "name": "KINGSLAYER",
+    "author": "MothEye",
+    "creators": ["MothEye"],
+    "verifier": "Baeru",
+    "verification": "https://youtu.be/exSJrLme6so",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://youtu.be/bb0F6VvqZDE",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
