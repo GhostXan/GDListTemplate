@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 20321297,
+    "name": "Heartbeat",
+    "author": "KrmaL",
+    "creators": ["ImAnubis","Blaireswip","KrmaL"],
+    "verifier": "KrmaL",
+    "verification": "https://youtu.be/UDVbmaJGlKQ",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://youtu.be/ZvJvVYzBJ6M?si=DsylPEMIhBtGNNYT",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
