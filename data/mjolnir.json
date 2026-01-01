@@ -1,16 +1,22 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 77878647,
+    "name": "Mjolnir",
+    "author": "iHermes",
+    "creators": ["iHermes"],
+    "verifier": "Nico GG",
+    "verification": "https://youtu.be/FyB9RTUk8iE",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://youtu.be/FyB9RTUk8iE?si=BMzBGg2AWH1i2mTx",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/U0Kmtn5b2yE?si=iYuiPSHn38E_BfZE",
             "percent": 100,
             "hz": 240
         }
