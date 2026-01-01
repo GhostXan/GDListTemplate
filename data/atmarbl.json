@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 44706787,
+    "name": "ATMarbl",
+    "author": "Pennutoh",
+    "creators": ["Zanna83","Osiris GD","YakobNugget","Pennutoh","Psynapse","Poccottini","Corkscrew","Nemphis","Enlex","Nico99","noice","Jihn","Metalface221","Altin","Eggnog","KINGTONY"],
+    "verifier": "Golden",
+    "verification": "https://youtu.be/PanlasFe7ow",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "https://www.youtube.com/watch?v=uI59p5tCsNM",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
