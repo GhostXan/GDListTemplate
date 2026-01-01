@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 20077821,
+    "name": "Red World Rebirth",
+    "author": "Riot",
+    "creators": ["NePtunE", "saRy", "ViPriN", "Findexi", "Riot", "REDACTED"],
+    "verifier": "Riot",
+    "verification": "https://youtu.be/WsxDUMLRqN4",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/kvI-v2l50rQ?si=uGxeMu8zaMSfbYli",
             "percent": 100,
-            "hz": 240
+            "hz": 75
         }
     ]
 }
