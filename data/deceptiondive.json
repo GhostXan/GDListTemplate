@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 34379100,
+    "name": "Deception Dive",
+    "author": "Rustam",
+    "creators": ["ZenthicAlpha","Ryder","RealZober","Rustam","Krampux","Berke423","Platnuu","Lucasyecla99","Disp","Sharks","REDACTED","Mazl"],
+    "verifier": "Berke423",
+    "verification": "https://youtu.be/jJIcx44_4-8",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "AggusS",
+            "link": "",
             "percent": 100,
-            "hz": 240
+            "hz": 144
+        },
+        {
+            "user": "bauti",
+            "link": "https://youtu.be/sR9PmGaHIHw?si=Eu0W73vgDahYjdcU",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
