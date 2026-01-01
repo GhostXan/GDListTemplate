@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 62551239,
+    "name": "Sigma Interface",
+    "author": "Platnuu",
+    "creators": ["TeslaX","Platnuu"],
+    "verifier": "Technical",
+    "verification": "https://youtu.be/zU1YH1AR8ok",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=Ny3KJlewG6k&t=6424s",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
