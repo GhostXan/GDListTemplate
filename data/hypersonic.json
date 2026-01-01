@@ -1,18 +1,36 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 30219145,
+    "name": "HyperSonic",
+    "author": "ViPriN",
+    "creators": ["ZenthicAlpha","Vlacc","Serponge","nasgubb","Evasium622","ViPriN","Rustam","Pan","Terron","Etzer","Dudex","Manix648"],
+    "verifier": "combi",
+    "verification": "https://youtu.be/RmrPEJ7Z6lY",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "https://youtu.be/2iQydSJ1qIU?si=yeG-OMFfrqGoWA6t",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/6tJKsZGdJkI?si=_rimk9MjQI1VJVBm",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/x5ukGY_IbvE?si=bf1Q8kRre0BB0juA",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://medal.tv/games/geometry-dash/clips/lJ9DEeqCjMtGDlsOf?invite=cr-MSxjbXYsMjE3MDM1MTE0",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
