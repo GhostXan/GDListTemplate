@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 60923124,
+    "name": "Azure Fiesta",
+    "author": "Dorami",
+    "creators": ["FurixGD","Dorami","DanielDLC","Geonox","DangerKat","TrueDee Fabian","MaxyLAND","ZadoxxZ","Byboy11","Buragoz","Alfred"],
+    "verifier": "Dorami",
+    "verification": "https://www.youtube.com/watch?v=HiTfvNpwYCM",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://youtu.be/b8aka2BsZGU?si=sZ_-WatPsX7KrNWi",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
