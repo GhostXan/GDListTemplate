@@ -1,0 +1,30 @@
+{
+    "id": 60619762,
+    "name": "Denouement",
+    "author": "Synactive GD",
+    "creators": ["Synactive GD", "souly"],
+    "verifier": "Synactive GD",
+    "verification": "https://youtu.be/LRwxRKhjHE0?si=lVcnBuCvOz61zhGQ",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Nico GG",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "luzk715",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ghostxan",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
